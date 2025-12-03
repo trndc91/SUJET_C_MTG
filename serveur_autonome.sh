@@ -1,3 +1,3 @@
 #bin!/bash/
-df -h  
-free -h
+df -m -h  
+free -m -h
