@@ -1,3 +1,8 @@
 #bin!/bash/
 df -m -h  
 free -m -h
+
+#!/bin/bash
+CPU_THRESHOLD=80
+MEMORY_THRESHOLD=80
+DISK_THRESHOLD=80
